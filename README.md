@@ -47,7 +47,7 @@ Our repositories are organized by domains:
 
 ## 🌐 Connect with Us
 
-- **Email:** creator.research@viit.ac.in *(replace with official mail if needed)*  
+- **Email:** creatorresearchxviit@gmail.com *(replace with official mail if needed)*  
 - **LinkedIn / Website:** *(Optional links for the organization)*  
 
 > **Innovation through Collaboration – Building the future together.**  
